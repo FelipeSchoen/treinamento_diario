@@ -15,12 +15,12 @@ const media = (nota1+nota2+nota3)/3;
 
 
 if (media < 5) {
-    console.log('Sua nota foi '+media+', Você está Reprovado!');
+    console.log('Sua nota foi '+(media.toFixed(2))+', Você está Reprovado!');
     
 } else if (media >=5 & media <=7) {
-    console.log('Sua nota foi '+media+', Você esta de recuperação!');
+    console.log('Sua nota foi '+ (media.toFixed(2))+', Você esta de recuperação!');
 } else if(media>7) {
-    console.log('Sua nota foi '+media+', Parabéns você passou de semestre')
+    console.log('Sua nota foi '+(media.toFixed(2))+', Parabéns você passou de semestre')
 }
 else{
     console.log('Você não preencheu nenhuma nota')
