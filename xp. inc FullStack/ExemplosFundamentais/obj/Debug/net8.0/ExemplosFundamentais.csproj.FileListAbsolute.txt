@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\bin\Debug\net8.0\ExemplosFundamentais.exe
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\bin\Debug\net8.0\ExemplosFundamentais.deps.json
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\bin\Debug\net8.0\ExemplosFundamentais.runtimeconfig.json
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\bin\Debug\net8.0\ExemplosFundamentais.dll
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\bin\Debug\net8.0\ExemplosFundamentais.pdb
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ExemplosFundamentais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ExemplosFundamentais.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ExemplosFundamentais.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ExemplosFundamentais.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ExemplosFundamentais.dll
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\refint\ExemplosFundamentais.dll
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ExemplosFundamentais.pdb
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ExemplosFundamentais.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Cursos-treinamento-diário\xp. inc FullStack\ExemplosFundamentais\obj\Debug\net8.0\ref\ExemplosFundamentais.dll
